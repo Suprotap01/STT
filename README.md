@@ -4,7 +4,7 @@
 
 This Java AWT application is a simple graphical program that simulates a mind-reading trick. The user is prompted to think of any two-digit number, reverse the digits, and find the difference between the original and reversed numbers. The user then finds the resulting number in a grid of symbols, each labeled with a number from 0 to 98. 
 
-The twist of the program is that all numbers divisible by 9 share the same symbol, which is randomly generated each time the program runs. This symbol is eventually revealed as the "mind-read" symbol when the user clicks the "Submit" button.
+The twist of the program is that all numbers divisible by 9 share the same symbol, which is randomly generated each time the program runs. This symbol is eventually revealed as the "mind-read" symbol when the user clicks the "Chin Tapak Dum Dum" button.
 
 ## Features
 
